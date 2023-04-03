@@ -4,14 +4,14 @@ This program is a console-based Bank Management System that allows users to perf
 # Features
 The following features are available in the Bank Management System:
 
-Create a new account
-Deposit money
-Withdraw money
-Check account balance
-List all account holders
-Close an account
-Modify an account
-Exit
+#### Create a new account
+#### Deposit money
+#### Withdraw money
+#### Check account balance
+#### List all account holders
+#### Close an account
+#### Modify an account
+#### Exit
 # Limitations
 The program can handle a maximum of 20 accounts.
 The program does not store data persistently, which means that all data will be lost when the program is closed.
