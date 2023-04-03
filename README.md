@@ -20,20 +20,20 @@ This program simulates a simple banking system that allows you to perform variou
 
 When you run the program, you will see a main menu with eight options:
 
-1.**New Account:** Allows you to create a new bank account by providing the account number, account holder's name, and initial deposit amount. The program will check if the account number already exists and prompt you to enter a different account number if it does.
+**1.New Account:** Allows you to create a new bank account by providing the account number, account holder's name, and initial deposit amount. The program will check if the account number already exists and prompt you to enter a different account number if it does.
 
-2.**Deposit Amount:** Allows you to deposit money into an existing bank account by providing the account number and the amount to deposit.
+**2.Deposit Amount:** Allows you to deposit money into an existing bank account by providing the account number and the amount to deposit.
 
-3.**Withdraw Amount:** Allows you to withdraw money from an existing bank account by providing the account number and the amount to withdraw. The program will check if there is enough balance in the account before allowing the withdrawal.
+**3.Withdraw Amount:** Allows you to withdraw money from an existing bank account by providing the account number and the amount to withdraw. The program will check if there is enough balance in the account before allowing the withdrawal.
 
-4.**Balance Enquiry:** Allows you to view the account balance of an existing bank account by providing the account number.
+**4.Balance Enquiry:** Allows you to view the account balance of an existing bank account by providing the account number.
 
-5.**All Account Holders List:** Displays a list of all the account holders, including their account numbers and balances.
+**5.All Account Holders List:** Displays a list of all the account holders, including their account numbers and balances.
 
-6.**Close an Account:** Allows you to close an existing bank account by providing the account number. The program will remove the account from the array of structures.
+**6.Close an Account:** Allows you to close an existing bank account by providing the account number. The program will remove the account from the array of structures.
 
-7.**Modify an Account:** Allows you to modify the details of an existing bank account by providing the account number. You can change the account holder's name and the account balance.
+**7.Modify an Account:** Allows you to modify the details of an existing bank account by providing the account number. You can change the account holder's name and the account balance.
 
-8.**Exit:** Exits the program.
+**8.Exit:** Exits the program.
 
 To use the program, simply select the appropriate option from the main menu and follow the prompts. The program will perform the requested transaction and return you to the main menu. You can continue to use the program until you choose to exit.
